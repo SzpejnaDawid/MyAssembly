@@ -9,3 +9,6 @@ In shortcut:
 1. the program take as an input "XXXX XXXX XXXX XXXX\n" string where X is a number between 0 and 9. So the input is a string
 which contains 4 integer numbers
 2. the output is square roots of those four numbers in the format "YYYY YYYY YYYY YYYY".
+
+## How to run
+You shold be in main file and click `F3` in Rars (it is `Run/Assembly`) and then `Run the current program` button.
